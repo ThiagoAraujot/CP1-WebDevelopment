@@ -5,7 +5,6 @@ const NavbarContainer = styled.nav`
   background-color: #ffff;
   padding: 1em 0;
   border-bottom: 1px solid #d9d9d9a0;
-
   div.navbar {
     margin: 0 auto;
     display: flex;
@@ -97,6 +96,7 @@ const NavbarContainer = styled.nav`
 export const TopicsContainer = styled.div`
   width: 100%;
   background-color: #fff;
+  margin-bottom: 1em;
 
   div.topics {
     width: 95%;
