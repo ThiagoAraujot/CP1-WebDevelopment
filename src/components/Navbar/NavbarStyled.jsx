@@ -5,6 +5,7 @@ const NavbarContainer = styled.nav`
   background-color: #ffff;
   padding: 1em 0;
   border-bottom: 1px solid #d9d9d9a0;
+
   div.navbar {
     margin: 0 auto;
     display: flex;
@@ -135,5 +136,6 @@ export const TopicsContainer = styled.div`
     }
   }
 `;
+
 
 export default NavbarContainer;
