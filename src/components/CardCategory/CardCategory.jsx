@@ -1,14 +1,13 @@
 import CardCategoryContainer from "./CardCategoryStyled";
-import watchImg from '../../assets/watch-category.png';
 
-const CardCategory = () => {
+const CardCategory = ({ img, name }) => {
   return (
     <>
       <CardCategoryContainer>
         <div className="elipse">
-          <img src={watchImg} alt="" />
+          <img src={img} alt="" />
         </div>
-        <h4>Watches</h4>
+        <h4>{name}</h4>
       </CardCategoryContainer>
     </>
   );

@@ -1,16 +1,16 @@
 import CardContainer from "./CardProductStyled";
-import shoeImg from "../../assets/shoeimg.webp";
 
-const CardProduct = () => {
+
+const CardProduct = ({img, name, price, discount}) => {
   return (
     <CardContainer>
       <div className="img">
-        <img src={shoeImg} alt="" />
+        <img src={img} alt="" />
       </div>
       <div className="info">
-        <h4>Nike Dunk SB</h4>
-        <p>1.999$</p>
-        <span>Save -100$</span>
+        <h4>{name}</h4>
+        <p>{price}$</p>
+        <span>Save -{discount}$</span>
       </div>
     </CardContainer>
   );
