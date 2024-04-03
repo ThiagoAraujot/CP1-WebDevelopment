@@ -13,6 +13,8 @@ const CardContainer = styled.div`
   }
 
   .img {
+    background-color: #ededed;
+    border-radius: 10px 10px 0 0;
     img {
       width: 100%;
       border-radius: 10px 10px 0 0;

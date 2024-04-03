@@ -12,6 +12,7 @@ const BannerContainer = styled.div`
     rgba(0, 142, 204, 1) 0%,
     rgba(243, 249, 251, 1) 100%
   );
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
   .banner-txt {
     padding: 0 2em;
