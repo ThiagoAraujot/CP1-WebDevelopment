@@ -1,10 +1,10 @@
 import CardProduct from "../CardProduct/CardProduct";
 import Title from "../Title/Title";
 import ProductsContainer from "./ProductsStyled";
-import nikedunkimg from "../../assets/nikedunkimg.avif";
-import newbalance from "../../assets/newbalance.avif";
-import airmax from "../../assets/airmax.avif";
-import energyfalcon from "../../assets/energyfalcon.jpg";
+import nikedunkimg from "../../assets/nikedunkimg.png";
+import newbalance from "../../assets/newbalance.png";
+import airmax from "../../assets/airmax.png";
+import energyfalcon from "../../assets/energyfalcon.png";
 
 const Products = () => {
   return (
