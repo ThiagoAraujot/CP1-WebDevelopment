@@ -11,22 +11,21 @@
 <hr/>
 
 ## :pushpin: Descrição
+
 Projeto realizado na [FIAP](https://www.fiap.com.br/) com o objetivo de praticar conceitos vistos em sala de aula sobre o React.
 
 ## :smile: Integrantes
-* [Felipe Schneider - RM553477](https://github.com/felpschneider)
-* [Hugo Santos - RM553266](https://github.com/ThiagoAraujot/CP1-WebDevelopment/commits?author=guguim)
-* [Maria Julia Araujo Rodrigues - RM553384](https://github.com/majuaraujo)
-* [Thiago Araujo Vieira - RM553477](https://github.com/ThiagoAraujot)
-* [Vinicius Centurion - RM554063](https://github.com/vinicenturion)
+
+- [Felipe Schneider - RM553477](https://github.com/felpschneider)
+- [Hugo Santos - RM553266](https://github.com/ThiagoAraujot/CP1-WebDevelopment/commits?author=guguim)
+- [Maria Julia Araujo Rodrigues - RM553384](https://github.com/majuaraujo)
+- [Thiago Araujo Vieira - RM553477](https://github.com/ThiagoAraujot)
+- [Vinicius Centurion - RM554063](https://github.com/vinicenturion)
 
 ###### Clique no nome para visitar o GitHub
 
 ## :framed_picture: Layout
-Acesse o projeto [SportHome Store](https://www.figma.com) clicando [aqui](https://cp-1-web-development.vercel.app/).
 
+Acesse o projeto [SportHome Store](https://cp-1-web-development.vercel.app/).
 
-
-## Link do Projeto 
-
-
+## Link do Projeto
