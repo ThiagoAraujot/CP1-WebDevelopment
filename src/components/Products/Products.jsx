@@ -15,7 +15,7 @@ const Products = () => {
           <CardProduct
             img={nikedunkimg}
             name="Nike Dunk SB"
-            price="1.999"
+            price="950"
             discount="100"
           />
           <CardProduct
@@ -27,13 +27,13 @@ const Products = () => {
           <CardProduct
             img={airmax}
             name="Air Max One"
-            price="1.200"
+            price="1.150"
             discount="200"
           />
           <CardProduct
             img={energyfalcon}
             name="Energy Falcon"
-            price="899"
+            price="600"
             discount="75"
           />
         </div>
