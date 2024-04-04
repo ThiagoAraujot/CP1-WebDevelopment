@@ -24,8 +24,6 @@ Projeto realizado na [FIAP](https://www.fiap.com.br/) com o objetivo de praticar
 
 ###### Clique no nome para visitar o GitHub
 
-## :framed_picture: Layout
+## :framed_picture: Link do Site
 
 Acesse o projeto [SportHome Store](https://cp-1-web-development.vercel.app/).
-
-## Link do Projeto
