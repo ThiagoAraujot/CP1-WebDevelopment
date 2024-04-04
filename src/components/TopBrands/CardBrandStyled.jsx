@@ -8,11 +8,11 @@ const CardBrandContainer = styled.div`
   padding: 1rem;
   background-color: #2791cf94;
   border-radius: 10px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
   &:hover {
     transform: scale(1.05);
-    transition: all 0.5s;
+    transition: all 0.9s ease;
   }
   img {
     width: 50%;
