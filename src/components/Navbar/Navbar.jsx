@@ -34,7 +34,7 @@ const Navbar = () => {
               <i className="bi bi-chevron-down"></i>
             </li>
             <li>
-              Football
+              American Football
               <i className="bi bi-chevron-down"></i>
             </li>
             <li>
