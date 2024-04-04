@@ -2,12 +2,12 @@ import Title from "../Title/Title";
 import CategoriesContainer from "./CategoriesStyled";
 import CardCategory from "../CardCategory/CardCategory";
 import watchImg from "../../assets/watch-category.png";
-import ballImg from "../../assets/ball-category.webp";
+import ballImg from "../../assets/ball-category.png";
 import shoesImg from "../../assets/shoes-category.avif";
 import glovesImg from "../../assets/gloves-category.png";
-import glassesImg from "../../assets/glasses-category.avif";
-import shirtsImg from "../../assets/shirts-category.webp";
-import acessoriesImg from "../../assets/acessories-category.webp";
+import glassesImg from "../../assets/glasses-category.png";
+import shirtsImg from "../../assets/shirts-category.png";
+import acessoriesImg from "../../assets/acessories-category.png";
 const Categories = () => {
   return (
     <>
